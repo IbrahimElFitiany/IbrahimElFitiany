@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ibrahim Taha
 
-**Exploring system design, scalability, and real-time backend systems**
+**Passionate about building scalable, real-time backend systems**
 
 🎓 CS Student @ Helwan University (Level 3)  
 🚀 Backend developer exploring system design, scalability, and real-time features
