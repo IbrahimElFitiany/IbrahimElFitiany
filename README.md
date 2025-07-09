@@ -2,7 +2,7 @@
 
 **Passionate about building scalable, real-time backend systems**
 
-🎓 CS Student @ Helwan University (Level 3)  
+🎓 CS Student @ Helwan University (Level 4)  
 🚀 Backend developer exploring system design, scalability, and real-time features
 
 ---
@@ -38,6 +38,7 @@ While backend-focused, I've also worked with React and Figma for UI development 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
