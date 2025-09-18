@@ -11,5 +11,5 @@
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,react,tailwind,ts,js,express,sequelize,python,postgres,docker,git,github,supabase,vercel,aws,figma&theme=dark&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,react,tailwind,ts,js,express,sequelize,python,postgres,docker,git,github,supabase,vercel,aws,linux,arch,figma&theme=dark&perline=12"/>
 </p>
