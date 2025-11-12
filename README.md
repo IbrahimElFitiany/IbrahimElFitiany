@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ibrahim Taha </h1>
 
-<img src="https://i.ibb.co/V0czvYR4/output-onlinegiftools.gif" align="right" alt="Diagram" width="500"/>
   
 **Passionate about building scalable, real-time backend systems**  
 
